@@ -1,0 +1,8 @@
+[submodule "SM1"]
+	path = SM1
+	url = https://github.com/syrico/SM1.git
+	branch = main
+[submodule "SM2"]
+	path = SM2
+	url = https://github.com/syrico/SM2.git
+	branch = main
